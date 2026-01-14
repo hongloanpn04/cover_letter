@@ -1,0 +1,94 @@
+.main{
+    
+    background-color: rgb(254, 253, 250);
+    padding: 0px 50px 87px;
+}
+.colorline,.colorlinebehind{
+        background: white;
+}
+
+
+.redline{
+     border-top:solid red 10px;
+     width: 80%;}
+.redlinebehind{
+     margin-left: auto;
+}
+
+.blackline{
+        border: solid black 8px;
+        width: 90%;
+}
+.blacklinebehind{
+        margin-left: auto;
+}
+body
+
+{
+   padding: 0 250px;
+    background-color:darkgray;
+    margin: 0;
+}
+.header_heading{
+    padding: 30px 0 10px;}
+.name{
+    font-weight: bold;
+    color:red;
+    font-size: 25px;
+     margin: 0;
+    padding: 20px 0 0 0;
+}
+.position
+{
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0;
+    padding: 10px 0;}
+
+
+.line{
+    margin: 5px 0 0 0;
+    border-bottom: solid lightgray;
+}
+i{color: red;
+
+}
+.hearder_info{
+    padding: 35px, 0, 0, 0;
+
+}
+li{
+    list-style: none;
+    padding: 4px 0;
+}
+.icon{
+    padding: 0 10px 0 0;
+}
+ul{
+    margin: 0;
+    padding-top: 30px  ;
+
+}
+.header_date{
+    padding: 10px , 0, 0;
+}
+.content_to_ln1
+{    font-weight: bold;
+    margin: 0;
+    padding: 25px 0 0;}
+.content_to_word{
+        margin:0;
+}
+.content_dear{
+    padding: 10px 0 0;
+    font-weight: bold;}
+.content_section{
+    text-align: justify;
+
+}
+.footer_name{
+    font-weight: bold;
+}
+.content_section_p{
+    margin:5px 0;
+}

@@ -25,7 +25,8 @@
 body
 
 {
-   padding: 0 250px;
+   display: flex;
+   justify-content: center;
     background-color:darkgray;
     margin: 0;
 }
@@ -93,7 +94,10 @@ ul{
 .content_section_p{
     margin:5px 0;
 }
-  @page {
-    size: A4;
-    margin: 20mm;
-  }
+
+.page {
+  width: 210mm;
+  padding:100px 0;
+}
+
+
